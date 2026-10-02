@@ -1,0 +1,6 @@
+interface:
+  display_name: "Viral Video Remix"
+  short_description: "Make branded, rights-aware short video edits"
+  default_prompt: "Use $viral-video-remix to create a branded short-form edit from this clip."
+policy:
+  allow_implicit_invocation: true
