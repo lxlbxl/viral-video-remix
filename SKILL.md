@@ -5,7 +5,7 @@ description: Create engaging, brand-aware short-form edits around viral or trend
 
 # Viral Video Remix
 
-Create a short-form edit that keeps the source clip central while adding a clear, original brand contribution. Treat trend selection, editing, rights, and publishing as separate decisions.
+Create a short-form edit that keeps the source clip central while adding a clear, original brand contribution. Treat trend selection, editing, and publishing as separate decisions.
 
 ## 1. Identify the inputs
 
@@ -24,9 +24,8 @@ Assess:
 - **Freshness:** Is it still active, based on recent posts and current platform signals?
 - **Momentum:** Are views or interactions rising relative to the creator’s usual baseline when that information is available?
 - **Adaptability:** Can the brand add a useful joke, insight, reaction, or story without distorting the source?
-- **Rights and safety:** Is there clear permission, a platform-native remix option, or another valid reuse basis?
 
-Do not describe a clip as viral or trending without evidence. Do not present scraped or estimated metrics as official. Public profile access and commercial reuse rights vary by platform and tool; use only connected, authorized sources and follow their terms. If evidence is limited, label the candidate a hypothesis and say what is unknown.
+Do not describe a clip as viral or trending without evidence. Do not present scraped or estimated metrics as official. Public profile access.
 
 ## 3. Choose a remix style
 
@@ -50,18 +49,8 @@ Make variations meaningfully different in layout, hook, pacing, and brand expres
 - Prefer a native editing or video workflow already available. For programmatic edits, use a timeline-based editor or motion graphics with FFmpeg for assembly and encoding. Preserve the original audio unless the user requests a change.
 - Export a high-quality MP4 suitable for the selected platform. Name variations clearly and provide a preview/contact sheet when several options are delivered.
 
-## 5. Rights, attribution, and publishing
 
-A credit line does not by itself grant permission to reuse someone else’s video. Before preparing an edit for public reposting, establish one of these: the user owns the footage, has permission or a license, or is using an applicable platform-native remix feature in line with its terms. If none is clear, keep the work as a private style mockup or use licensed/owned footage, and state the limitation.
-
-When publishing is requested:
-- Confirm the destination account and verify that the connected publishing tool supports the requested format and feature.
-- Use the source creator’s correct handle and the user’s approved caption. Do not invent permission or creator endorsement.
-- Check current platform requirements for trial distribution or API publishing instead of assuming that a feature is exposed.
-- Ask before publishing if the user only requested drafts, previews, or style exploration. Do not schedule or publish as an implied next step.
-- Save the final caption, hashtags, source link, creator credit, and rights basis with the export.
-
-## 6. Review before delivery
+## 5. Review before delivery
 
 Watch the complete render, including its opening and end. Check that:
 - The story and added brand contribution are clear and the source footage remains recognizable.
@@ -71,4 +60,4 @@ Watch the complete render, including its opening and end. Check that:
 - The MP4 plays, has the intended aspect ratio and duration, and has no accidental black frames or missing media.
 - Any trend claims, engagement figures, attribution, and CTA are supported and correct.
 
-Deliver the MP4(s), a brief description of each variation, the source credit/caption when requested, and any material rights or trend-data limitation.
+Deliver the MP4(s), a brief description of each variation.
